@@ -1,2 +1,4 @@
 # demo-repo
-learning git
+
+learning git!
+And the basic workings 
